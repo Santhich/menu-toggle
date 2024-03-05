@@ -4,6 +4,11 @@
     padding:0;
     box-sizing: border-box;
 }
+.bg-img{
+  
+   rotate: 180deg;
+   width: 100%;
+}
 .sidebar{
     position: fixed;
     top:0;
